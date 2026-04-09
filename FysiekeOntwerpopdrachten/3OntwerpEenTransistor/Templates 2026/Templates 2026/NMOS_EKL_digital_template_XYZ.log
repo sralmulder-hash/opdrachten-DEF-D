@@ -1,0 +1,23 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Lars\Documents\Q3\DEF-D\opdrachten-DEF-D\FysiekeOntwerpopdrachten\3OntwerpEenTransistor\Templates 2026\Templates 2026\NMOS_EKL_digital_template_XYZ.net
+Start Time: Wed Mar  4 12:20:30 2026
+Ignoring BSIM parameter VFBFLAG
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter LDIF
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter CALCACM
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.141 seconds.
+
+Files loaded:
+C:\Users\Lars\Documents\Q3\DEF-D\opdrachten-DEF-D\FysiekeOntwerpopdrachten\3OntwerpEenTransistor\Templates 2026\Templates 2026\NMOS_EKL_digital_template_XYZ.net
+C:\Users\Lars\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\Lars\Documents\Q3\DEF-D\opdrachten-DEF-D\FysiekeOntwerpopdrachten\3OntwerpEenTransistor\Templates 2026\Templates 2026\nmosekl.lib
+
